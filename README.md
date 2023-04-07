@@ -1,4 +1,4 @@
-<h1 align="center">(＾• ω •＾) Herfost</h1>
+<h1 align="center">(＾• ω •＾)</h1>
 <h3 align="center">Passionate computer science student from Italy</h3>
 <img align="center" alt="coding" width="400" src ="https://media.tenor.com/8wBCqZH60U8AAAAM/computer-cat.gif">
 
