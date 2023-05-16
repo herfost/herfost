@@ -5,7 +5,6 @@ credits: https://profile-readme-generator.com/
 <br clear="both">
 
 <h1 align="center">Passionate CS Student from Italy</h1>
-
 ###
 
 <div align="center">
@@ -40,3 +39,6 @@ credits: https://profile-readme-generator.com/
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
 </div>
+
+###
+<h1 align="center">Nuovo profilo: <a href="https://github.com/sbadung">sbadung</a></h1>
