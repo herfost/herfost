@@ -4,7 +4,7 @@ credits: https://profile-readme-generator.com/
 
 <br clear="both">
 
-<h1 align="center">2 + 2 = 5</h1>
+<h1 align="center">Passionate CS student from Italy</h1>
 <a href="https://docs.google.com/presentation/d/1FrVX5mylVNqOIg5jz7guK6Ag-s7zSIwnpOXZgLXh9B8/edit?usp=sharing">PCTO</a>
 
 <div align="center">
